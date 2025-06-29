@@ -17,3 +17,4 @@ This repository contains an interactive Power BI dashboard designed to analyze s
 - Month
 
 ---
+![image](https://github.com/user-attachments/assets/7afb935b-dcd8-40ce-852d-bc80bb8d2f56)
